@@ -1,0 +1,5 @@
+## Interface: 20501
+## Title: Akuma's Guild Data Exporter
+## Author: Akuma
+## Version: 0.2b
+main.lua
